@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "heroku": "^7.59.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
